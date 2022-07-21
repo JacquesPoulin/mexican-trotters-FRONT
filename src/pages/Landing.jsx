@@ -5,7 +5,9 @@ const Landing = () => {
   return (
     <div>
       <Link to="/home">
-        <button type="button" className="cursor-pointer">DISCOVER MEXICO</button>
+        <button type="button" className="cursor-pointer">
+          DISCOVER MEXICO
+        </button>
       </Link>
     </div>
   );
